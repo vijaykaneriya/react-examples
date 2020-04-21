@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+.page-title {
+  padding-top: 25px;
+    border-bottom: 1px solid #dedede;
+    padding-bottom: 15px;
+    margin-bottom: 25px;
+}
+
+.link {
+  cursor: pointer;
+}
+.no-wrap {
+  white-space: nowrap;
+}
